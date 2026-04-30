@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking for help with<br>Deploying and optimizing deep learning models on edge devices.<br><br>🌱 I’m currently learning<br>ROS2, advanced robotics, and real-time AI systems.<br><br>💬 Ask me about<br>Robotics, YOLO, computer vision, and embedded AI.<br><br>⚡ Fun fact<br>I love combining AI and hardware to build smart autonomous robots 🚀
+<br><br>🌱 I’m currently learning<br>ROS2, advanced robotics, and real-time AI systems.<br><br>💬 Ask me about<br>Robotics, YOLO, computer vision, and embedded AI.<br><br>⚡ Fun fact<br>I love combining AI and hardware to build smart autonomous robots 🚀
 
 
 ## 🌐 Socials:
