@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>🌱 I’m currently learning<br>ROS2, advanced robotics, and real-time AI systems.<br><br>💬 Ask me about<br>Robotics, YOLO, computer vision, and embedded AI.<br><br>⚡ Fun fact<br>I love combining AI and hardware to build smart autonomous robots 🚀
+🌱 I’m currently learning<br>ROS2, advanced robotics, and real-time AI systems.<br><br>💬 Ask me about<br>Robotics, YOLO, computer vision, and embedded AI.<br><br>⚡ Fun fact<br>I love combining AI and hardware to build smart autonomous robots 🚀
 
 
 ## 🌐 Socials:
