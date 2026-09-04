@@ -14,7 +14,7 @@ I love combining AI and hardware to build smart autonomous robots 🚀
 
 ## My Contribution Graph
 
-<!-- [game-name] -->
+<!-- minesweeper -->
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedriaahi/ahmedriaahi/output/minesweeper-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedriaahi/ahmedriaahi/output/minesweeper-contribution-graph.svg">
