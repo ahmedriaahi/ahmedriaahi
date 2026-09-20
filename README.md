@@ -1,3 +1,6 @@
+<!--Banner-->
+![ahmedriaahi Banner Image](./banner.png)
+
 # 💫 About Me:
 🌱 I’m currently learning  
 ROS2, advanced robotics, and real-time AI systems.
