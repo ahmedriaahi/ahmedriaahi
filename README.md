@@ -12,7 +12,7 @@ Robotics, YOLO, computer vision, and embedded AI.
 I love combining AI and hardware to build smart autonomous robots 🚀
 
 💻 Visit my [Portfolio](https://ahmedriaahi.github.io/) for more details about me.
-- 
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riahi-ahmed) 
